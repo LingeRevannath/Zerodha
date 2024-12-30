@@ -1,0 +1,33 @@
+.footer{
+  background-color: #fbfbfb;
+  padding-left:50px;
+  padding-top: 80px;
+  display: flex;
+
+}
+
+#firstpart{
+  display: flex;
+  justify-content: space-between;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top: 80px;
+  cursor: pointer;
+}
+
+#secondpart{
+  font-size:.80rem;
+  padding: 0px 40px;
+}
+
+#last {
+  list-style-type: none;
+  padding: 0px 200px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+#last li {
+  margin: 10px;
+}
