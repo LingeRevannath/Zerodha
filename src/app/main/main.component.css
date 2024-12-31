@@ -59,3 +59,28 @@
   text-decoration: none;
   font-size: 24px;
 }
+
+
+.fourthsection{
+  color: #424242;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px ;
+}
+
+
+#varsity{
+  width: 60%;
+  font-size: 20px;
+}
+
+
+.fifthsection{
+  color: #424242;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
